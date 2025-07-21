@@ -1,4 +1,4 @@
-# 🧬 HNPDR – Healthcare Needs Prediction and Disease Risk Estimator
+# 🧬 HNPDR – Real Time Helmet Detection and Car Number Plate Recognition for Enhanced Traffic Monitoring
 
 ![Tech](https://img.shields.io/badge/Tech-Python%20%7C%20Machine%20Learning%20%7C%20Streamlit%20%7C%20MySQL-informational)
 
